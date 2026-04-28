@@ -1,0 +1,24 @@
+{
+    "id": 133530774,
+    "name": "Crackerhouse",
+    "author": "UNDER6CORE",
+    "creators": ["UNDER6CORE"],
+    "verifier": "UNDER6CORE",
+    "verification": "https://youtu.be/sJtAJnMofm0?si=IW8tuldXk-_Jpqp3",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Glovv",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
