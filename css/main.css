@@ -3,7 +3,7 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #9974cc;
+    --color-primary: #f47200;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
@@ -16,7 +16,7 @@ header.dark {
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #6b518f;
+    --color-primary: #c45f08;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
