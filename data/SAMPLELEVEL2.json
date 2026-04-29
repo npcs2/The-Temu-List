@@ -1,18 +1,19 @@
 {
     "id": 132972863,
-    "name": "Crack Slaughterhouse",
-    "author": "Glovv",
-    "creators": ["Glovv"],
-    "verifier": "Solo_Creator",
+    "name": "",
+    "author": "",
+    "creators": [""],
+    "verifier": "",
     "verification": "",
-    "percentToQualify": "55",
-    "password": "Free To Copy",
+    "percentToQualify": "",
+    "password": "",
     "records": [
                 {
-            "user": "UNDER6CORE",
+            "user": "",
             "link": "",
-            "percent": 55,
-            "hz": 60
+            "percent": ,
+        
+             "hz":
         }
     ]
 }
